@@ -1,9 +1,17 @@
 {
     "configurations": [
         {
+            "name": "Linux",
+            "includePath": [],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        },
+        {
             "name": "Win32",
-            "includePath": [
-            ],
+            "includePath": [],
             "defines": [
                 "_DEBUG",
                 "UNICODE",

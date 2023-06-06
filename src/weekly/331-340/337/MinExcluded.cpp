@@ -3,6 +3,12 @@
 #include <vector>
 #include <algorithm>
 
+/**
+ * 2598. 执行操作后的最大 MEX
+ * 
+ * https://leetcode.cn/contest/weekly-contest-337/
+ * https://leetcode.cn/problems/smallest-missing-non-negative-integer-after-operations/
+ */
 class Solution
 {
 public:
